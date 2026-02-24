@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game-Android
-A very simple Tic-Tac-Toe Android game that includes all the main gameplay features. It includes handling  exceptions  that may occur while playing. Built using Material Design (MD) principles with Kotlin and XML, this project was completed as a task for my session in the DEPI Android Track.
+A very simple Tic-Tac-Toe Android game that includes all the main gameplay features. It includes handling  exceptions  that may occur while playing. Built using Material Design (MD) principles with Kotlin and XML, this project was completed as a task for a session in the DEPI Android Track.
 
 ### Key Features
 Core Gameplay: Complete XO logic with player turn switching.
