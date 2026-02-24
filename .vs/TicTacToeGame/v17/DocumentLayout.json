@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\TicTacToeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73417004-E0B1-439D-8517-D2ACE07C73AD}|TicTacToeGame\\TicTacToeGame.csproj|d:\\projects\\tictactoegame\\tictactoegame\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73417004-E0B1-439D-8517-D2ACE07C73AD}|TicTacToeGame\\TicTacToeGame.csproj|solutionrelative:tictactoegame\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73417004-E0B1-439D-8517-D2ACE07C73AD}|TicTacToeGame\\TicTacToeGame.csproj|D:\\Projects\\TicTacToeGame\\tictactoegame\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73417004-E0B1-439D-8517-D2ACE07C73AD}|TicTacToeGame\\TicTacToeGame.csproj|solutionrelative:tictactoegame\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73417004-E0B1-439D-8517-D2ACE07C73AD}|TicTacToeGame\\TicTacToeGame.csproj|d:\\projects\\tictactoegame\\tictactoegame\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73417004-E0B1-439D-8517-D2ACE07C73AD}|TicTacToeGame\\TicTacToeGame.csproj|solutionrelative:tictactoegame\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73417004-E0B1-439D-8517-D2ACE07C73AD}|TicTacToeGame\\TicTacToeGame.csproj|D:\\Projects\\TicTacToeGame\\tictactoegame\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73417004-E0B1-439D-8517-D2ACE07C73AD}|TicTacToeGame\\TicTacToeGame.csproj|solutionrelative:tictactoegame\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "play.cs",
+              "DocumentMoniker": "D:\\Projects\\TicTacToeGame\\TicTacToeGame\\play.cs",
+              "RelativeDocumentMoniker": "TicTacToeGame\\play.cs",
+              "ToolTip": "D:\\Projects\\TicTacToeGame\\TicTacToeGame\\play.cs",
+              "RelativeToolTip": "TicTacToeGame\\play.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAWwC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:19:40.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "play.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\TicTacToeGame\\TicTacToeGame\\play.cs",
+              "RelativeDocumentMoniker": "TicTacToeGame\\play.cs",
+              "ToolTip": "D:\\Projects\\TicTacToeGame\\TicTacToeGame\\play.cs [Design]",
+              "RelativeToolTip": "TicTacToeGame\\play.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:19:30.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cs",
+              "DocumentMoniker": "D:\\Projects\\TicTacToeGame\\TicTacToeGame\\main.cs",
+              "RelativeDocumentMoniker": "TicTacToeGame\\main.cs",
+              "ToolTip": "D:\\Projects\\TicTacToeGame\\TicTacToeGame\\main.cs",
+              "RelativeToolTip": "TicTacToeGame\\main.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:43:05.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\TicTacToeGame\\TicTacToeGame\\main.cs",
+              "RelativeDocumentMoniker": "TicTacToeGame\\main.cs",
+              "ToolTip": "D:\\Projects\\TicTacToeGame\\TicTacToeGame\\main.cs [Design]",
+              "RelativeToolTip": "TicTacToeGame\\main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:43:03.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
